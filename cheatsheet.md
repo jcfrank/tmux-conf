@@ -3,7 +3,7 @@ tmux shortcuts
 
 - *custom prefix:* C-a
 
-- prefix \":        horizontal split.
+- prefix ":        horizontal split.
 
 - prefix %:         vertical split.
 
